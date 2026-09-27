@@ -1,0 +1,3 @@
+Command requested by assignment: htop / top
+Captured environment also reports four logical CPUs through lscpu.
+The interactive htop screen was used during the activity; the dashboard uses a batch `top -b -n 1` snapshot because an interactive TTY cannot be represented reliably in a Streamlit page.

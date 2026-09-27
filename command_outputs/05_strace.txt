@@ -1,0 +1,4 @@
+strace -- version 6.19
+Copyright (c) 1991-2026 The strace developers
+
+Note: the saved terminal transcript verifies that strace 6.19 was installed and used. The detailed `strace -c` summary should be captured from the live WSL environment before the final submission so that the repository contains the exact command output rather than an inferred table.

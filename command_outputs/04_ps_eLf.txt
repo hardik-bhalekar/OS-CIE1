@@ -1,0 +1,8 @@
+UID        PID  PPID   LWP  C NLWP STIME TTY          TIME CMD
+root         1     0     1  0    2 13:31 ?        00:00:00 /init
+root         1     0    11  0    2 13:31 ?        00:00:00 /init
+root        18     1    18  0    1 13:31 ?        00:00:00 /init
+root        19    18    19  0    1 13:31 ?        00:00:00 /init
+Hardik1+    20    19    20  0    1 13:31 pts/0    00:00:00 -bash
+Hardik1+  2944    20  2944  0    1 13:40 pts/0    00:00:00 ps -eLf
+Hardik1+  2945    20  2945  0    1 13:40 pts/0    00:00:00 head
